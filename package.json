@@ -1,0 +1,18 @@
+{
+  "name": "tina",
+  "version": "1.0.0",
+  "description": "",
+  "main": "coinbase_test.js",
+  "dependencies": {
+    "async": "^2.0.0",
+    "fs": "0.0.2",
+    "gdax": "^0.2.1",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
